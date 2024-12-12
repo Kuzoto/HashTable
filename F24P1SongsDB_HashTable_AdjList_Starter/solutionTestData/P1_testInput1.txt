@@ -1,0 +1,28 @@
+remove song When Summer's Through
+
+print song
+print artist
+print graph
+print
+insert ABC<SEP>American
+insert ABC<SEP> American
+insert Blind Lemon JeffersonLong Lonesome Blues
+insert
+insert Blind Lemon Jefferson<SEP>Long   Lonesome Blues
+insert Blind Lemon Jefferson<SEP>long Lonesome Blues
+insert Ma Rainey<SEP>Ma Rainey's Black Bottom
+insert Ma Rainey<SEP>Long Lonesome Blues
+insert Ma Rainey<SEP>Mississippi Boweavil Blues
+insert Ma Rainey<SEP>Fixin' To Die Blues
+print artist
+print song
+print graph
+remove song Sleepy
+remove music Sleepy
+remove
+remove song
+remove artist ma rainey
+remove artist Ma Rainey
+print artist
+add
+print
